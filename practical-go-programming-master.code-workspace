@@ -2,7 +2,43 @@
 	"folders": [
 		{
 			"path": "."
-		}
+		},
+		{
+			"path": "./app_a/helloworld",
+			"name": "app_a/helloworld"
+		},
+		{
+			"path": "./app_a/shadow",
+			"name": "app_a/shadow"
+		},
+		{
+			"path": "./app_a/comment",
+			"name": "app_a/comment"
+		},
+		{
+			"path": "./app_a/declare",
+			"name": "app_a/declare"
+		},
+		{
+			"path": "./app_a/slice",
+			"name": "app_a/slice"
+		},
+		{
+			"path": "./app_a/controlflow",
+			"name": "app_a/controlflow"
+		},
+		{
+			"path": "./app_a/func",
+			"name": "app_a/func"
+		},
+		{
+			"path": "./app_a/struct",
+			"name": "app_a/struct"
+		},
+		{
+			"path": "./app_a/webservice",
+			"name": "app_a/webservice"
+		},
 	],
 	"settings": {
 		"go.toolsEnvVars": {"GO111MODULE": "on"},
