@@ -39,6 +39,22 @@
 			"path": "./app_a/webservice",
 			"name": "app_a/webservice"
 		},
+		{
+			"path": "./ch01/constant",
+			"name": "ch01/constant"
+		},
+		{
+			"path": "./ch01/error/a",
+			"name": "ch01/error/a"
+		},
+		{
+			"path": "./ch01/error/guard",
+			"name": "ch01/error/guard"
+		},
+		{
+			"path": "./ch01/error/j",
+			"name": "ch01/error/j"
+		},
 	],
 	"settings": {
 		"go.toolsEnvVars": {"GO111MODULE": "on"},
